@@ -1,0 +1,22 @@
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\Auto Clicker Pro\bin\x86\Release\Auto Clicker Pro.exe.config
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\Auto Clicker Pro\bin\x86\Release\Auto Clicker Pro.exe
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\Auto Clicker Pro\bin\x86\Release\Auto Clicker Pro.pdb
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\Auto Clicker Pro\bin\x86\Release\Auto Clicker Pro.xml
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\Auto Clicker Pro\obj\x86\Release\Auto_Clicker_Pro.ibrahimcelik.resources
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\Auto Clicker Pro\obj\x86\Release\Auto_Clicker_Pro.Resources.resources
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\Auto Clicker Pro\obj\x86\Release\Auto Clicker Pro.vbproj.GenerateResource.Cache
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\Auto Clicker Pro\obj\x86\Release\Auto Clicker Pro.exe
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\Auto Clicker Pro\obj\x86\Release\Auto Clicker Pro.xml
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\Auto Clicker Pro\obj\x86\Release\Auto Clicker Pro.pdb
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\Auto Clicker Pro\obj\x86\Release\Auto Clicker Pro.vbprojResolveAssemblyReference.cache
+C:\Users\Resul Çelik\Desktop\Auto Clicker Pro\Auto Clicker Pro\bin\x86\Release\Auto Clicker Pro.exe.config
+C:\Users\Resul Çelik\Desktop\Auto Clicker Pro\Auto Clicker Pro\obj\x86\Release\Auto Clicker Pro.exe
+C:\Users\Resul Çelik\Desktop\Auto Clicker Pro\Auto Clicker Pro\obj\x86\Release\Auto Clicker Pro.xml
+C:\Users\Resul Çelik\Desktop\Auto Clicker Pro\Auto Clicker Pro\obj\x86\Release\Auto Clicker Pro.pdb
+C:\Users\Resul Çelik\Desktop\Auto Clicker Pro\Auto Clicker Pro\bin\x86\Release\Auto Clicker Pro.exe
+C:\Users\Resul Çelik\Desktop\Auto Clicker Pro\Auto Clicker Pro\bin\x86\Release\Auto Clicker Pro.pdb
+C:\Users\Resul Çelik\Desktop\Auto Clicker Pro\Auto Clicker Pro\bin\x86\Release\Auto Clicker Pro.xml
+C:\Users\Resul Çelik\Desktop\Auto Clicker Pro\Auto Clicker Pro\obj\x86\Release\Auto Clicker Pro.vbprojResolveAssemblyReference.cache
+C:\Users\Resul Çelik\Desktop\Auto Clicker Pro\Auto Clicker Pro\obj\x86\Release\Auto_Clicker_Pro.ibrahimcelik.resources
+C:\Users\Resul Çelik\Desktop\Auto Clicker Pro\Auto Clicker Pro\obj\x86\Release\Auto_Clicker_Pro.Resources.resources
+C:\Users\Resul Çelik\Desktop\Auto Clicker Pro\Auto Clicker Pro\obj\x86\Release\Auto Clicker Pro.vbproj.GenerateResource.Cache

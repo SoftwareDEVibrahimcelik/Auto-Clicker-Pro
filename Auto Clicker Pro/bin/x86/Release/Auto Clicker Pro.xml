@@ -1,0 +1,25 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AutoClickerPro
+</name>
+</assembly>
+<members>
+<member name="P:Auto_Clicker_Pro.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Auto_Clicker_Pro.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Auto_Clicker_Pro.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Auto_Clicker_Pro.ibrahimcelik.ibrahim_celik53_Tick(System.Object,System.EventArgs)">
+</member>
+</members>
+</doc>
